@@ -1,0 +1,10 @@
+body {
+    background: rgb(16, 77, 146); 
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis-color: white;
+}
+
+h1 {
+    color: azure;
+    text-align: center;
+}
